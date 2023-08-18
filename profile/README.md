@@ -22,6 +22,8 @@
     <a href="https://github.com/greysoft-code-camp/" target="_blank"> <img width="55px" src="https://avatars.githubusercontent.com/u/101010522?s=200&v=4"/> </a>
     <a href="https://github.com/greysoft-incognito/" target="_blank"> <img width="55px" src="https://avatars.githubusercontent.com/u/101158455?s=200&v=4"/> </a>
     <a href="https://github.com/Greysoft-Team/" target="_blank"> <img width="55px" src="https://avatars.githubusercontent.com/u/98347718?s=200&v=4"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img width="55px" src="https://img.icons8.com/color/2x/vue-js.png"/> </a>
+    <a href="https://quasar.dev/" target="_blank"> <img width="55px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a>
 </p>
 
 <a href="https://github.com/greysoft-interns">

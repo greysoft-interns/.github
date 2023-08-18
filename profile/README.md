@@ -6,13 +6,15 @@
 
 ## 🙋‍♂️ Contribution guidelines
 
-- 👨‍💻 If you are a project lead, create a new repo for your project and add collaborators, you are responsible for all content generated and managed by you.
+- 🌱 If you are a project lead, create a new repo for your project and add collaborators
+
+- 👨‍💻 You are responsible for all content generated in projects managed by you.
 
 - 📫 You can reachout to an admin if you need to be added as a member.
   
 - 👯 Respect everyone and be ready to unlearn, learn and relearn.
 
-- 🙋‍♀️ Remember to hit the follow button.
+- 🔭 Remember to hit the follow button.
 
 ## 🚀 Useful resources:
 

@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🙋‍♀️ This is a safe space for all Greysoft Technologies interns to explore, create and collaborate
+
 <!--
 
 **Here are some ideas to get you started:**

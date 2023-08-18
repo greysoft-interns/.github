@@ -1,7 +1,7 @@
 <p align="center"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/142553142?s=200&v=4" height="175px"/></p>
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Greysoft Technology Interns!</h1>
-<h3 align="center">This is a safe space for you to create, explore and collaborate on some of the most interesting projects you can ever imagine</h3>
+<h3 align="center">This is a safe space for you to create, explore and collaborate on some of the most interesting experiences you'll ever have.</h3>
 
 
 ## 🙋‍♂️ Contribution guidelines
